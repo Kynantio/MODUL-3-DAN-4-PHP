@@ -1,0 +1,25 @@
+# MODUL-3-DAN-4-PHP
+Modul 3
+Latihan 1
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSLat1.PNG)
+Latihan 2
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSLat2.PNG)
+Latihan 3
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSLat3.PNG)
+Latihan 4
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSLat4.PNG)
+Latihan 5
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSLat5.PNG)
+Latihan 6
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSLat6.PNG)
+Tugas
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul3/SSTugas.PNG)
+Modul 4
+Latihan 1
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/SSLat1.PNG)
+Latihan 2
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/SSLat2.PNG)
+Latihan 3
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/latihan3.php)
+Latihan 4
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/latihan4.php)
