@@ -20,6 +20,6 @@ Latihan 1
 Latihan 2
 ![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/SSLat2.PNG)
 Latihan 3
-![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/latihan3.php)
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/SSLat3.PNG)
 Latihan 4
-![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/latihan4.php)
+![alt text](https://github.com/Kynantio/MODUL-3-DAN-4-PHP/blob/master/Modul4/SSLat4.PNG)
